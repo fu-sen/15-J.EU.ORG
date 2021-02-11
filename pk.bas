@@ -1,0 +1,26 @@
+' Penalty Kick | IchigoJam BASIC 1.2.2+
+' Copyright (c) 2018-2019Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://gist.github.com/fu-sen/732a632d70c9bd79cbda1a994da14cb7
+10 'PK
+20 VIDEO 5:CLS:CLV:CLP
+30 ?CHR$(0,#88,#8C,#8C,#8C,#84)
+40 ?CHR$(0,#8A,3,#F9,3,#85)
+50 LC 2,4:?CHR$(#E0,#6F,#E1)
+60 C=RND(2)
+70 K=INKEY():L=(K=28)+BTN()
+80 R=(K=29)+(1-IN(1))
+90 IF L+R<>1 GOTO 70
+100 LC 2,4:?CHR$(0,0,0)
+110 FOR Y=3 TO 2 STEP -1
+120 IF Y=3 X=3 ELSE X=2+R*2
+130 LC X,Y:?"o";:WAIT 5
+140 ?CHR$(#1C,0):NEXT
+150 LC 2,1:IF C=1 GOTO 170
+160 ?CHR$(#FD,3,3):GOTO 180
+170 ?CHR$(3,3,#FB)
+180 G=0:IF C=1 AND L=1 G=1
+190 IF C=0 AND R=1 G=1
+200 LC 2+R*2,2-G:?"o"
+210 IF G=0 GOTO 230
+220 LC 1,3:?"GOAL!"
+230 WAIT 180:GOTO 20
