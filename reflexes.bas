@@ -1,7 +1,7 @@
 ' Reflexes test | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
 ' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
-10 'ﾊﾝｼｬｼﾝｹｲﾃｽﾄ
+10 '�ݼ��ݹ�ý�
 20 CLS:LET X,0:LET Y,0
 30 LC X,Y:? ".";
 40 LET X,X+2:IF X<20 GOTO 30
