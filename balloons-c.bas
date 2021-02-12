@@ -1,6 +1,6 @@
 ' Balloons | IchigoJam BASIC 1.3.2b12+ (LPC1114)
 ' Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/7e55ee56a67e07d804db9379178e3cb5
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 10 'Balloons C-Language
 20 POKE #800,248,181,204,35,27,136,152,71,192,39,206,38,59,136,31,32
 30 POKE #810,152,71,196,36,23,33,51,136,5,0,152,71,35,136,232,32

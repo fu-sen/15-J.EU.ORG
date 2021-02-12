@@ -1,6 +1,6 @@
 ' 15 Puzzle | IchigoJam BASIC
 ' Copyright (c) 2003-2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/30b22a1f1f70fc5ea4b9
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 '15 Puzzle
 20 CLS:I=0:S=100
 30 I=I+1:[I]=I:IF I<17 GOTO 30

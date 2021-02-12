@@ -1,6 +1,6 @@
 ' New Maze | IchigoJam BASIC 1.2.2+
 ' Copyright (c) 2015-2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/c0611b12b5ce41773d48282a21e9c215
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2019
 10 'New MAZE
 20 VIDEO 1:CLS:CLV:CLP
 30 FOR X=2 TO 28

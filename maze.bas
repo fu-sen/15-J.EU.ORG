@@ -1,6 +1,6 @@
 ' MAZE | IchigoJam BASIC 0.9.9
 ' Copyright (c) 2015-2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/c0611b12b5ce41773d48282a21e9c215
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2019
 10 'ﾒｲﾛ
 20 CLS:LET Y,0:LET X,0
 30 LC 0,Y:? CHR$(1);

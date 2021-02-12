@@ -1,6 +1,6 @@
 ' Shooting | IchigoJam BASIC
 ' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/52ddb94228758739c310f51cba047d82
+' The MIT License (MIT) -https://mit.balloon.net.eu.org/#2020
 10 'Shooting
 20 VIDEO 7:CLS:CLV
 30 IF PEEK(#1002)==0 CONT

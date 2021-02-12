@@ -1,6 +1,6 @@
 ' Paper-Scissors-Stone! random version | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 PRINT"ｼﾞｬﾝｹﾝﾎﾟﾝ!"
 20 IF INKEY()<>0 GOTO 20
 30 IF INKEY()=0 GOTO 30

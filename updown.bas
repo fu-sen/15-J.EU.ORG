@@ -1,6 +1,6 @@
 ' UP-DOWN | IchigoJam BASIC
 ' Copyright (c) 2015-2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/c0611b12b5ce41773d48282a21e9c215
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2019
 5 'ｳｴ･ｼﾀ
 10 LET L,10:LET W,10:LET S,0
 20 CLS:LET I,0

@@ -1,6 +1,6 @@
 ' Balloons version 2 | IchigoJam BIG
 ' Copyright (c) 2016-2018 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/3a5588b315da337d4d45475edb1445fb
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2016-2018
 10 'Ì³¾Ý ver 2
 15 IF VER()>12233 VIDEO 3
 20 CLS:CLP:CLV

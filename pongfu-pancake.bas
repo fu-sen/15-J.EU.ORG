@@ -1,6 +1,6 @@
 ' draw of PONG screen | PanCake / IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' Copyright (c) 2003-2015 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2003-2015
 10 'PanCake PONGﾌｳ
 20 VIDEO 0
 25 IF VER()>11000 UART 1

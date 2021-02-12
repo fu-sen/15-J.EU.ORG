@@ -1,6 +1,6 @@
 ' 1 min timer Balloon | IchigoJam BASIC 1.3b09+
 ' Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/7e55ee56a67e07d804db9379178e3cb5
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 10 '1min Balloon
 20 VIDEO 1:CLS:A=31:B=24
 30 FOR C=1 TO 41:CLT

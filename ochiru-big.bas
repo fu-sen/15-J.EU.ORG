@@ -1,6 +1,6 @@
 ' O-CHI-RUuuu a.k.a. fall | IchigoJam BIG / IchigoJam BASIC 1.2.2
 ' Copyright (c) 2015-2018 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/31ca72669bb1d1f88ca7e9add3796e23
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2018
 10 'ｵﾁﾙ~
 15 IF VER()>12233 VIDEO 3
 20 CLS:X=7:S=0:Y=0

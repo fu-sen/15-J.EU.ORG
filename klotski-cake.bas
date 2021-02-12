@@ -1,6 +1,6 @@
 ' Klotski | IchigoCake BASIC
 ' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/52ddb94228758739c310f51cba047d82
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020
 POKE#1780,255,128,128,128,128,128,128,128
 POKE#1788,255,1,1,1,1,1,1,1
 POKE#1790,128,128,128,128,128,128,128,255

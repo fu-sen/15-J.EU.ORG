@@ -1,7 +1,7 @@
 ' IchigoJam 4th Anniversary | IchigoJam BASIC 1.2.2+
 ' Copyright (c) 2018-2019 Keiichi Shiga (BALLOON | FU-SEN)
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
-' The MIT License (MIT) - https://gist.github.com/fu-sen/515460ed17a95323b0b8b9cec00de64e
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018-2019
 100 '4th Anniversary
 110 VIDEO 5:CLS:CLV
 120 POKE 1800,1,1,1,1,1,0,1,0,4

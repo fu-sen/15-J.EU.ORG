@@ -1,6 +1,6 @@
 ' Character enlarged display | IchigoJam BASIC 0.9.9
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 5 '·¬×¸À° ¶¸ÀÞ² Ë®³¼Þ
 10 CLV:CLS
 20 INPUT C:C=PEEK(#901)

@@ -1,7 +1,7 @@
 ' IchigoJam 5th Anniversaty | IchigoCake BASIC+
 ' Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
-' The MIT License (MIT) - https://gist.github.com/fu-sen/7e55ee56a67e07d804db9379178e3cb5
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 
 POKE#1000,0,0,0,0,0,0,0,138,0,0,138,0,130,0,0,0
 POKE#1010,0,0,138,0,0,0,0,0,0,0,0,0,0,0,0,0

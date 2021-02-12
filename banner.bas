@@ -1,6 +1,6 @@
 ' Banner | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 5 'ÊÞÅ° (ÃÞÝ¼¹²¼ÞÊÞÝ)
 10 CLS:CLV
 20 LET [0],12291,12291,16383,16383

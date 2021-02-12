@@ -1,6 +1,6 @@
 ' shot! | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 T=RND(300):LED 0
 20 IF INKEY()+BTN()<>0 ? "ﾌﾗｲﾝｸﾞ!":END:'ﾌﾗｲﾝｸﾞ! = premature!
 30 IF TICK()<T GOTO 20

@@ -1,6 +1,6 @@
 ' Character Code List - Dec | IchigoJam BASIC 0.7.4-1.2 beta 14
 ' Copyright (c) 2018-2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/732a632d70c9bd79cbda1a994da14cb7
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018-2019
 10 'Character Code 20 OLD
 20 CLS
 30 C=0

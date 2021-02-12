@@ -1,6 +1,6 @@
 ' draw of PONG screen | IchigoJam BASIC
 ' Copyright (c) 2003-2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/30b22a1f1f70fc5ea4b9
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2003-2015
 5 'PONG ﾌｳ
 10 CLS:Y=0
 20 LOCATE 15,Y:? "|";

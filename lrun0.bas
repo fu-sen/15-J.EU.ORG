@@ -1,7 +1,7 @@
 ' LRUN 0 | IchigoJam BASIC 1.0.0+
 ' Copyright (c) 2021 Keiichi Shiga (BALLOON | FU-SEN)
 ' IchigoJam officially logo - CC BY IchigoJam https://ichigojam.net/ Licensed by jig.jp
-' The MIT License (MIT) - https://gist.github.com/fu-sen/1d745079b391aeeaf5bd13bb85e1a0fb
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2021
 100 'LRUN 0
 110 CLV
 120 ?

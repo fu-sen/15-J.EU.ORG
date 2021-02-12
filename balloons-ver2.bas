@@ -1,6 +1,6 @@
 ' Balloons version 2 | IchigoJam BASIC
 ' Copyright (c) 2016 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2016
 10 'Ì³¾Ý ver 2
 20 CLS:CLP:CLV
 30 FOR I=7 TO 0 STEP -1

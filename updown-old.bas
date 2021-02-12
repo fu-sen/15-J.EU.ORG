@@ -1,6 +1,6 @@
 ' UP-DOWN | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 LET L,10:LET W,10:LET S,0
 20 CLS:LET I,0
 30 LOCATE RND(33),RND(25):? CHR$(1);

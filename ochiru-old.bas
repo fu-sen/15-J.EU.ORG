@@ -1,6 +1,6 @@
 ' O-CHI-RUuuu a.k.a. fall | IchigoJam BASIC
 ' Copyright (c) 2015-2018 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/31ca72669bb1d1f88ca7e9add3796e23
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2018
 10 CLS:LET X,17:LET S,0:LET Y,0
 20 GOSUB 160
 30 LET Y,Y+1:IF Y<>26 GOTO 20

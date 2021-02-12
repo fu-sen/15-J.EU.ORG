@@ -1,6 +1,6 @@
 ' GIVE UP! | IchigoJam BASIC
 ' Copyright (c) 1995-2019 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/492b5096aeeeba1f19a35aeccd54d520
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#1995-2019
 5 'GIVE UP!
 10 CLS:LET X,0:LET Y,0
 20 LOCATE 0,Y:? CHR$(1);

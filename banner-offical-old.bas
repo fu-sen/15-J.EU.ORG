@@ -1,7 +1,7 @@
 ' Banner IchigoJam officially logo version | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 CLS
 20 LET [0],26622,26622,24576
 30 LET [3],24576,26592,26592

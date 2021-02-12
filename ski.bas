@@ -1,6 +1,6 @@
 ' Ski | IchigoJam BASIC
 ' Copyright (c) 2018 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/515460ed17a95323b0b8b9cec00de64e
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018
 10 'ｽｷｰ
 20 CLS:CLV:GOSUB 180
 30 S=0:X=15:W=5:U=50

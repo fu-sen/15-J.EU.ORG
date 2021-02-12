@@ -1,6 +1,6 @@
 ' Calendar | IchigoJam BASIC
 ' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/282b65c35d81a7d3b64c
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 LET [1],31:LET [2],28:LET [3],31
 20 LET [4],30:LET [5],31:LET [6],30
 30 LET [7],31:LET [8],31:LET [9],30

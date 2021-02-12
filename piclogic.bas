@@ -1,6 +1,6 @@
 ' Picture Logic | IchigoJam BASIC 1.3+
 ' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/52ddb94228758739c310f51cba047d82
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020
 10 'ｵｴｶｷ ﾛｼﾞｯｸ
 20 IF A<224 A=RND(32)+224
 30 CLS:VIDEO 3

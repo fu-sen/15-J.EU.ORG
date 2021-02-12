@@ -1,6 +1,6 @@
 ' Random Screen | IchigoJam BIG
 ' Copyright (c) 2015-2016 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/5ee9ad5721504b37c6316875e2270407
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2016
 10 ' ﾗﾝﾀﾞﾑｶﾞﾒﾝ
 15 IF VER()>12233 VIDEO 3
 20 CLS

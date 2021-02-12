@@ -1,6 +1,6 @@
 ' Penalty Kick | IchigoJam BASIC 1.2.2+
-' Copyright (c) 2018-2019Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/732a632d70c9bd79cbda1a994da14cb7
+' Copyright (c) 2018-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018-2019
 10 'PK
 20 VIDEO 5:CLS:CLV:CLP
 30 ?CHR$(0,#88,#8C,#8C,#8C,#84)
