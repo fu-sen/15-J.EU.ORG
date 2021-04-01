@@ -1,3 +1,8 @@
+' IchigoJam 7th Anniversaty | IchigoJam BASIC 1.5b+ / RISC-V
+' Copyright (c) 2021 Keiichi Shiga (BALLOON | FU-SEN)
+' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2021
+
 POKE #F88,15,21,15,25,19,23,17,23
 POKE #F90,17,23,17,25,17,25,19,25
 POKE #F98,21,21,21,25,21,23,23,23
