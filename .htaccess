@@ -10,7 +10,7 @@ RewriteRule .* - [R=404,L]
 
 RewriteCond %{HTTP_USER_AGENT} !MixJuice
 RewriteCond %{HTTP_REFERER} !fukuno.jig.jp
-RewriteRule .* https://github.com/fu-sen/bas.15j.run [R=301,L]
+RewriteRule .* https://github.com/fu-sen/BAS.15J.RUN [R=301,L]
 
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
