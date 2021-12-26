@@ -31,7 +31,7 @@ ___
 ![MixJuice 経由のダウンロード例](/screenshot.jpg)
 
 MixJuice および MicJack を用いて\
-プログラムを直接 IchigoJam・IchigoCake にダウンロドできます。
+プログラムを直接 IchigoJam・IchigoCake にダウンロードできます。
 
 ```
 ?"MJ GET BAS.15J.RUN/ファイル名.BAS`
