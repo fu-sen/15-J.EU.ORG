@@ -74,4 +74,4 @@ ___
 
 ___
 
-Powered by [さくらのレンタルサーバ](https://www.sakura.ne.jp/)
+Powered by [さくらのレンタルサーバ](https://rs.sakura.ad.jp/)
