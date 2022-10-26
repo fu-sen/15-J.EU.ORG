@@ -9,8 +9,12 @@
 プロジェクトに移しました。
 
 この GitHub プロジェクトよりファイルを参照・ダウンロードし、\
-[USB-シリアルモジュール](https://shopfusen.jimdofree.com/ichigojam/) を用いて IchigoJam へ転送できます。\
+USB-シリアルモジュール を用いて IchigoJam へ転送できます。\
 **Raw** で実ファイルを表示できます。
+
+2022年10月26日より、ドメインを `15-j.eu.org` を採用し、\
+GitHub Pages を用いて MixJuice・IchigoJam web 両方から\
+プログラムをダウンロードできるようにしています。
 
 ___
 
@@ -34,22 +38,14 @@ MixJuice および MicJack を用いて\
 プログラムを直接 IchigoJam・IchigoCake にダウンロードできます。
 
 ```
-?"MJ GET BAS.15J.RUN/ファイル名.BAS`
+?"MJ GET 15-J.EU.ORG/ファイル名.BAS`
 ```
 
 `GET` の代わりに `GETS` を使用可能です。IchigoJam web は `GETS` 必須です。
 
-`BAS.15J.RUN` はプログラムを直接出力しています。
-
 ```
-?"MJ GET 15J.IN/ファイル名.BAS`
+?"MJ GETS 15-J.EU.ORG/ファイル名.BAS`
 ```
-
-代わりに `15J.IN` を使用すると、\
-画面クリア→ `NEW` →プログラム出力→ `'OK` 動作になります。\
-通常プログラムのダウンロードはこちらの使用がおすすめです。
-
-[fu-sen/15j.in | GitHub](https://github.com/fu-sen/15j.in)
 
 ___
 
@@ -68,10 +64,10 @@ ___
 
 [イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/): <https://15jamrecipe.jimdofree.com/>
 
-運営者: [ふうせん🎈 FU-SEN](https://balloon.asia/) ([志賀 慶一](https://www.facebook.com/keiichishiga))
+運営者: [ふうせん🎈 FU-SEN](https://balloon-jp.vercel.app/) ([志賀 慶一](https://www.facebook.com/keiichishiga))
 
 [IchigoJam](https://ichigojam.net/) は [株式会社jig.jp](https://jig.jp/) の登録商標です。
 
 ___
 
-Powered by [さくらのレンタルサーバ](https://rs.sakura.ad.jp/)
+Powered by [GitHub Pages](https://https://pages.github.com/)
