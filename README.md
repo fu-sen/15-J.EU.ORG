@@ -38,13 +38,13 @@ MixJuice および MicJack を用いて\
 プログラムを直接 IchigoJam・IchigoCake にダウンロードできます。
 
 ```
-?"MJ GET 15-J.EU.ORG/ファイル名.BAS`
+?"MJ GET 15-J.EU.ORG/ファイル名.BAS
 ```
 
 `GET` の代わりに `GETS` を使用可能です。IchigoJam web は `GETS` 必須です。
 
 ```
-?"MJ GETS 15-J.EU.ORG/ファイル名.BAS`
+?"MJ GETS 15-J.EU.ORG/ファイル名.BAS
 ```
 
 ___
