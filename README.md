@@ -70,4 +70,4 @@ ___
 
 ___
 
-Powered by [GitHub Pages](https://https://pages.github.com/)
+Powered by [GitHub Pages](https://pages.github.com/)
