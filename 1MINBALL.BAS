@@ -1,0 +1,20 @@
+' 1 min timer Balloon | IchigoJam BASIC 1.3b09+
+' Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
+10 '1min Balloon
+20 VIDEO 1:CLS:A=31:B=24
+30 FOR C=1 TO 41:CLT
+40 FOR D=0 TO 360 STEP 5
+50 X=SIN(D)*C/256+31
+60 Y=COS(D)*C/256+24
+70 DRAW A,B,X,Y
+80 DRAW A+1,B,X+1,Y
+90 A=X:B=Y
+100 NEXT
+110 IF TICK()<88 CONT
+120 NEXT
+130 LED 1
+140 FOR I=0 TO 99
+150 COPY #900,RND(#D00),768
+160 NEXT
+170 CLS:LED 0

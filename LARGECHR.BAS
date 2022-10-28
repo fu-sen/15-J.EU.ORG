@@ -1,0 +1,24 @@
+' Enlarged character | IchigoJam BASIC 0.9.9
+' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
+10 'ｶｸﾀﾞｲﾓｼﾞ
+20 CLV
+30 CLS
+40 FOR Y=0 TO 2
+50 INPUT I
+60 NEXT
+70 FOR Y=2 TO 0 STEP -1
+80 FOR X=3 TO 0 STEP -1
+90 LET I,VPEEK(X+1,Y)
+100 FOR V=0 TO 7
+110 LET P,PEEK(I*8+V)
+120 FOR W=0 TO 7
+130 LET Q,(Y*8+V)*32+(X*8+W)
+140 POKE #900+Q,(P&128<>0)
+150 LET P,P<<1
+160 NEXT
+170 NEXT
+180 NEXT
+190 NEXT
+200 IF INKEY() GOTO 200
+210 IF !INKEY() GOTO 210

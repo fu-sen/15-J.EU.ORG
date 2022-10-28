@@ -1,0 +1,20 @@
+' Balloon Trip | IchigoJam BASIC
+' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
+5 'ÊÞÙ°ÝÄØ¯Ìß
+10 CLS:CLV:LET Y,11:LET L,10
+20 SCROLL 1
+30 IF S%L==0 LC 0,RND(23):? "+";
+40 LC 31,Y:? CHR$(232);
+50 LC 31,Y+1:? CHR$(237);:WAIT L
+60 LET I,BTN():LET Y,Y-I+(I==0)
+70 IF VPEEK(30,Y) GOTO 130
+80 IF VPEEK(30,Y+1) GOTO 130
+90 IF Y==0 OR Y==22 GOTO 130
+100 LET S,S+1
+110 IF S%25==0 AND L>1 LET L,L-1
+120 GOTO 20
+130 SCROLL 1
+140 LC 31,Y:? CHR$(244);
+150 LC 31,Y+1:? CHR$(244);
+160 LC 0,23:? "SCORE ";S;" ";:END
