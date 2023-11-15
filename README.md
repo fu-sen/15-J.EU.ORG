@@ -64,7 +64,7 @@ ___
 
 [イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/): <https://15jamrecipe.jimdofree.com/>
 
-運営者: [ふうせん🎈 FU-SEN](https://balloon-jp.vercel.app/) ([志賀 慶一](https://www.facebook.com/keiichishiga))
+運営者: [ふうせん🎈 FU-SEN](https://balloon-jp.vercel.app/)
 
 [IchigoJam](https://ichigojam.net/) は [株式会社jig.jp](https://jig.jp/) の登録商標です。
 
