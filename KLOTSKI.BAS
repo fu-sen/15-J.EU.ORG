@@ -1,6 +1,6 @@
 ' Klotski | IchigoJam BASIC 1.3+
-' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020
+' Copyright (c) 2020-2025 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020-2025
 POKE#F60,255,128,128,128,128,128,128,128
 POKE#F68,255,1,1,1,1,1,1,1
 POKE#F70,128,128,128,128,128,128,128,255
@@ -43,7 +43,7 @@ POKE#FF8,252,0,0,0,0,0,0,0
 260 IF ![P+S] GOTO 280
 270 IF SCR(C+S%2,D+S/2)<>1 N=1
 280 NEXT
-290 IF N=1 C=A:D=B:K=1
+290 IF N=1 C=A:D=B:K=0
 300 FOR S=0 TO 3
 310 IF ![P+S] GOTO 340
 320 LC C+S%2,D+S/2
