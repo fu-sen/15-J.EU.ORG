@@ -1,6 +1,6 @@
 ' Random Key Typing | IchigoJam BASIC 0.9.4-
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
+' Copyright (c) 2015-2025 Keiichi Shiga (BALLOON | FU-SEN)
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2025
 10 'Random Key Typing
 20 CLS:CLV
 30 LET[0],18,0,0,0,2,0,4,0,6,0
@@ -13,7 +13,7 @@
 100 LET[60],13,2,9,6,3,2,5,6
 110 LET[68],11,2,3,6
 120 LC[I*2],[I*2+1]:?".";
-130 I=I+1:IF I<36 GOTO 110
+130 I=I+1:IF I<36 GOTO 120
 140 I=RND(35)
 150 C=48+I:IF I>9 C=C+7
 160 LC[I*2],[I*2+1]:? CHR$(C);
