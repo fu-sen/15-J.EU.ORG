@@ -1,5 +1,5 @@
 ' 15 Puzzle version 2 | IchigoJam BASIC
-' Copyright (c) 2025 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2025 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2025
 POKE #F88,254,250,250,250,250,250,254,0
 POKE #F90,254,226,250,226,238,226,254,0

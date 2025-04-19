@@ -1,5 +1,5 @@
 ' IchigoJam 7th Anniversaty | IchigoJam BASIC 1.3b09+
-' Copyright (c) 2021 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2021 BALLOON | FU-SEN
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2021
 

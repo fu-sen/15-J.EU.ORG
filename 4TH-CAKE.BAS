@@ -1,5 +1,5 @@
 ' IchigoJam 4th Anniversary | IchigoCake BASIC
-' Copyright (c) 2018-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2018-2019 BALLOON | FU-SEN
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018-2019
 100 '4th Anniversary

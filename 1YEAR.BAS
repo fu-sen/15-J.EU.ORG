@@ -1,5 +1,5 @@
 ' IchigoJam 1st Anniversary | IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 1 '1year

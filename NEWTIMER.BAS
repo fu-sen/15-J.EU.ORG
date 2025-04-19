@@ -1,5 +1,5 @@
 ' New Timer | IchigoJam BASIC 1.2.2+
-' Copyright (c) 2018 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2018 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018
 10 'New Timer
 20 CLV:M=3:S=0:C=60

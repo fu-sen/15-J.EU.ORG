@@ -1,5 +1,5 @@
 ' Balloons | IchigoJam BIG / IchigoJam BASIC 1.2.2
-' Copyright (c) 2015-2018 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015-2018 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2018
 10 'Ì³¾Ý
 15 IF VER()>12233 VIDEO 3

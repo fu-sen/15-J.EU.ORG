@@ -1,6 +1,6 @@
 ' Program LIST / Loader | IchigoJam BIG / IchigoJam BASIC 1.2.2+
 ' original by Taisuke Fukuno https://fukuno.jig.jp/1020
-' remaked by Keiichi Shiga (BALLOON | FU-SEN), 2015-2019.
+' remaked by BALLOON | FU-SEN, 2015-2019.
 ' CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 10 'Program LIST / Loader
 20 CLV

@@ -1,5 +1,5 @@
 ' Random Key Typing | IchigoJam BASIC 0.9.4-
-' Copyright (c) 2015-2025 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015-2025 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2025
 10 'Random Key Typing
 20 CLS:CLV

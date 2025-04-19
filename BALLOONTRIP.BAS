@@ -1,5 +1,5 @@
 ' Balloon Trip | IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 5 'ÊÞÙ°ÝÄØ¯Ìß
 10 CLS:CLV:LET Y,11:LET L,10

@@ -1,5 +1,5 @@
 ' Character Code List - Hex | IchigoJam BASIC 0.9.8 RC2+
-' Copyright (c) 2018 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2018 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018
 10 '·¬×¸À°º°ÄÞ ²Á×Ý 16
 20 CLS

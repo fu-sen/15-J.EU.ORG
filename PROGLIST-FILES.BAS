@@ -1,6 +1,6 @@
 ' Program LIST / Loader FILES version | IchigoJam BASIC 1.1.0+
 ' original by Taisuke Fukuno https://fukuno.jig.jp/1020
-' remaked by Keiichi Shiga (BALLOON | FU-SEN), 2015-2019.
+' remaked by BALLOON | FU-SEN, 2015-2019.
 ' CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 10 'Program LIST/Loader FILES
 20 S=101:L=227:'1~3,1~99,101~227

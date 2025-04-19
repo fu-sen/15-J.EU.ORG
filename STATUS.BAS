@@ -1,5 +1,5 @@
 ' IchigoJam STATUS | IchigoJam BASIC 0.9.4+
-' Copyright (c) 2020-2025 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2020-2025 BALLOON | FU-SEN
 ' IchigoJam officially logo - CC BY IchigoJam http://ichigojam.net/ Licensed by jig.jp
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020-2025
 10 'IchigoJam STATUS

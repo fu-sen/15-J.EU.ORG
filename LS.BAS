@@ -1,6 +1,6 @@
 ' ls - IchigoLatte EEPROM | IchigoJam BASIC
 ' original by Taisuke Fukuno http://fukuno.jig.jp/1020
-' remaked by Keiichi Shiga (BALLOON | FU-SEN), 2015-2019.
+' remaked by BALLOON | FU-SEN, 2015-2019.
 ' CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 10 'ls IchigoLatte EEPROM
 20 INPUT"ls>",L

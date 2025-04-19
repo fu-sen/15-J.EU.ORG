@@ -1,5 +1,5 @@
 ' IchigoJam to Cake EEPROM | IchigoCake BASIC
-' Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2019 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 10 'IchigoJam to Cake EEPROM
 20 CLV:S=32

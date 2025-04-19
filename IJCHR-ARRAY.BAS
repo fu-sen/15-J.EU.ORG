@@ -1,5 +1,5 @@
 ' IchigoJam Enlarged character Array version | PanCake 0.8- / IchigoJam BASIC 0.9.9-
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 'PanCake IchigoJam¶¸ÀÞ²Ó¼Þ
 20 LET[0],ASC("0"),ASC("1")

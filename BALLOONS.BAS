@@ -1,5 +1,5 @@
 ' Balloons | IchigoJam BASIC
-' Copyright (c) 2015-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015-2019 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2019
 5 'Ì³¾Ý
 10 CLS:CLV:CLP

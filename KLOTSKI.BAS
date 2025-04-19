@@ -1,5 +1,5 @@
 ' Klotski | IchigoJam BASIC 1.3+
-' Copyright (c) 2020-2025 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2020-2025 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020-2025
 POKE#F78,255,129,129,129,129,129,129,255
 POKE#F90,255,128,128,128,128,128,128,255

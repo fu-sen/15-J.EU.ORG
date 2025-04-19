@@ -1,5 +1,5 @@
 ' IchigoJam character code list | IchigoJam BASIC
-' Copyright (c) 2015 Keiichi SHIGA (BALLOON a.k.a. Fu-sen.)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 CLS
 20 C=0

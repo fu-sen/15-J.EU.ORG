@@ -1,5 +1,5 @@
 ' MAZE | IchigoJam BASIC 0.8.6-0.9.8
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 CLS:LET Y,0:LET X,0
 20 LOCATE 0,Y:? CHR$(1);

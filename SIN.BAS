@@ -1,5 +1,5 @@
 ' Sine Curve | IchigoJam BASIC
-' Copyright (c) 2024 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2024 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 100 'Sine Curve
 110 CLS

@@ -1,5 +1,5 @@
 ' Squash | IchigoJam BASIC
-' Copyright (c) 2003-2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2003-2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2003-2015
 10 CLS:LET X,1:LET Y,0
 20 LC X,0:? CHR$(1);

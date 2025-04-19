@@ -1,6 +1,6 @@
 ' BREAKOUT remake | IchigoJam BASIC
 ' original by MASAHARU ( http://pcn.club/gallery/ )
-' renewed by Keiichi Shiga (BALLOON | FU-SEN)
+' renewed by BALLOON | FU-SEN
 ' CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 10 'ÌÞÛ¯¸ ¸½Þ¼ ¶²Ø®³ÊÞÝ
 20 CLS:LET X,RND(15)*2+1

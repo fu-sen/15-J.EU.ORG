@@ -1,5 +1,5 @@
 ' 3min timer calc LED version | IchigoJam BASIC 0.9.4
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 '3ÌßÝÀ²Ï° ÃÞÝÀ¸Ó¼Þ
 20 CLS:CLT:N=3:Z=60:LED 0

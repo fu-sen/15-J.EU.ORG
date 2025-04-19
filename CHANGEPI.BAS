@@ -1,5 +1,5 @@
 ' Change of PanCake and IchigoJam | PanCake / IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 'PanCake ¶ÞÒÝ ·Ø¶´
 20 VIDEO 0

@@ -1,5 +1,5 @@
 ' Amabie | IchigoCake BASIC
-' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2020 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020
 POKE #19A0,#20,#20,#20,#20,#20,#20,#20,#20
 POKE #19A8,#20,#20,#20,#20,#20,#8C,#83,#89

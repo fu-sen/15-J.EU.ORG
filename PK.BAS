@@ -1,5 +1,5 @@
 ' Penalty Shoot-Out | IchigoJam BASIC 1.2.2+
-' Copyright (c) 2018-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2018-2019 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018-2019
 10 'PK PSO
 20 VIDEO 5:CLS:CLV:CLP

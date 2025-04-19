@@ -1,5 +1,5 @@
 ' GIVE UP! | IchigoJam BASIC
-' Copyright (c) 1995-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 1995-2019 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#1995-2019
 5 'GIVE UP!
 10 CLS:LET X,0:LET Y,0

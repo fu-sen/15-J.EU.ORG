@@ -1,5 +1,5 @@
 ' Output of background color palette and images | PanCake / IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 'PanCake Output Background
 20 CLV:IF VER()>11000 UART 1

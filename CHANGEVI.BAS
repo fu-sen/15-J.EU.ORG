@@ -3,8 +3,8 @@
 ' Source(#D00-#DFF) https://gist.github.com/fu-sen/21400660612ad674f660b056fb07ece3
 ' Original https://github.com/IchigoJam/c4ij/blob/master/src/main-exkbd.c
 ' and BASIC Program
-' Copyright (c) 2019 Taisuke Fukuno / Keiichi Shiga (BALLOON | FU-SEN)
-' The MIT License (MIT) - https://gist.github.com/fu-sen/7e55ee56a67e07d804db9379178e3cb5
+' Copyright (c) 2019 Taisuke Fukuno / BALLOON | FU-SEN
+' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 '
 ' IchigoJam Font(#E00-#FFF) https://fukuno.jig.jp/1395
 ' CC BY IchigoJam https://ichigojam.net/ Licensed by jig.jp https://jig.jp/

@@ -1,5 +1,5 @@
 ' Multiplication master | IchigoCake BASIC 0.9.8-RC3+
-' Copyright (c) 2020 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2020 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2020
 10 'ｶｹｻﾞﾝ ﾏｽﾀｰ
 20 A=5:B=2

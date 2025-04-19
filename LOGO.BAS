@@ -1,5 +1,5 @@
 ' IchigoJam LOGO | IchigoJam BASIC
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 'IchigoJam ﾛｺﾞ
 20 LET [0],25945:LET [1],21058

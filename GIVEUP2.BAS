@@ -1,5 +1,5 @@
 ' GIVE UP! 2 | IchigoJam BASIC 1.3.2b19+
-' Copyright (c) 1995-2019 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 1995-2019 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#1995-2019
 10 'GIVE UP! 2
 20 X=32:Y=24:S=0:M=0:N=1

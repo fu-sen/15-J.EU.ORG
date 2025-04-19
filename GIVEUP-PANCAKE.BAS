@@ -1,5 +1,5 @@
 ' GIVE UP! | PanCake / IchigoJam BASIC
-' Copyright (c) 1995-2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 1995-2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#1995-2015
 10 'PanCake GIVE UP!
 20 CLV:X=20:Y=22:Q=0:R=1

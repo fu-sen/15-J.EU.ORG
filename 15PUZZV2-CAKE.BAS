@@ -1,5 +1,5 @@
 ' 15 Puzzle version 2 | IchigoCake BASIC
-' Copyright (c) 2025 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2025 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2025
 POKE #1788,254,250,250,250,250,250,254,0
 POKE #1790,254,226,250,226,238,226,254,0

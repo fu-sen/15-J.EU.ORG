@@ -1,5 +1,5 @@
 ' O-CHI-RUuuu a.k.a. fall | IchigoJam BASIC
-' Copyright (c) 2015-2018 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015-2018 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015-2018
 10 CLS:LET X,17:LET S,0:LET Y,0
 20 GOSUB 160

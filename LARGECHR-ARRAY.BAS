@@ -1,5 +1,5 @@
 ' Enlarged character Array version | IchigoJam BASIC 0.9.9
-' Copyright (c) 2015 Keiichi Shiga (BALLOON | FU-SEN)
+' Copyright (c) 2015 BALLOON | FU-SEN
 ' The MIT License (MIT) - https://mit.balloon.net.eu.org/#2015
 10 'ｶｸﾀﾞｲﾓｼﾞ ﾊｲﾚﾂﾊﾞﾝ
 20 CLV
